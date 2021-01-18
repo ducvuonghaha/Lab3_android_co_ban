@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1_android_co_ban</string>
+    <string name="title">Tiêu đề ứng dụng</string>
+    <string name="content">Xin chào các bạn</string>
+    <string name="title_button">Chuyển màn hình</string>
+</resources>
